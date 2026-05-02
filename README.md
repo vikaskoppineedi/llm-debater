@@ -4,6 +4,22 @@ A browser-based app where two or more AI models debate each other on technical t
 
 ---
 
+## Screenshots
+
+| Home — recent debates | New Debate setup |
+|---|---|
+| ![Home](docs/screenshots/01-home.png) | ![Setup](docs/screenshots/02-setup.png) |
+
+| Debate arena (live transcript) | Final architecture document |
+|---|---|
+| ![Arena](docs/screenshots/05-arena-top.png) | ![Final](docs/screenshots/07-arena-bottom.png) |
+
+| Prompt library | API key settings |
+|---|---|
+| ![Prompts](docs/screenshots/04-prompts.png) | ![Settings](docs/screenshots/03-settings.png) |
+
+---
+
 ## Features
 
 ### Debate Engine

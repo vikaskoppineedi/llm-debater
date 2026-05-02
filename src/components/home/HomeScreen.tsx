@@ -26,7 +26,7 @@ export function HomeScreen({
   const isLoading = useHistoryStore((s) => s.isLoading);
   const loadDebates = useHistoryStore((s) => s.loadDebates);
   const deleteDebate = useHistoryStore((s) => s.deleteDebate);
-  const version = '1.0.0';
+  const version = '1.1.0';
 
   useEffect(() => {
     loadDebates();
