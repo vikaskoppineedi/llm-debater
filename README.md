@@ -10,9 +10,9 @@ A browser-based app where two or more AI models debate each other on technical t
 |---|---|
 | ![Home](docs/screenshots/01-home.png) | ![Setup](docs/screenshots/02-setup.png) |
 
-| Debate arena (live transcript) | Final architecture document |
-|---|---|
-| ![Arena](docs/screenshots/05-arena-top.png) | ![Final](docs/screenshots/07-arena-bottom.png) |
+| Debate arena — live transcript & final architecture |
+|---|
+| ![Arena](docs/screenshots/05-arena-top.png) |
 
 | Prompt library | API key settings |
 |---|---|
